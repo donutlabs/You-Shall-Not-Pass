@@ -2,7 +2,7 @@
 /*
 Plugin Name: You Shall Not Pass
 Description: A plugin to control the visibility of specific pages for logged-in users.
-Author: Christopher Spradlin | Kleidon Labs
+Author: Christopher Spradlin
 */
 
 // Create the plugin menu
